@@ -1,54 +1,29 @@
+# WeatherCheck
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## Description
 
-#  Clima
+This app was build while taking the App Brewery's Complete App Development Bootcamp
 
-## Our Goal
+## Screenshots
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+ <table align = "center">
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/30757557/183130742-a1c608d0-f4c6-42f3-bb90-d6a90c52ee3f.png" width="200"></td>
+    <td><img src="https://user-images.githubusercontent.com/30757557/183131376-01c5ddd9-153a-4a25-a95c-a49a456d8994.PNG" width="200"></td>
+  </tr>
+ </table>
+
+  <table align = "center">
+  <tr>
+       <td><img src="https://user-images.githubusercontent.com/30757557/183131660-e1097f84-2f9c-4a6b-875c-dc880c23e8be.mp4" width="200"></td>
+  </tr>
+ </table>
+
+### Features
+- OpenWeather API has been used
 
 
-## What you will create
-
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
-
-## What you will learn
-
-* How to create a dark-mode enabled app.
-* How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
-* Learn about the delegate pattern.
-* Swift protocols and extensions. 
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* Learn to use URLSession to network and make HTTP requests.
-* Parse JSON with the native Encodable and Decodable protocols. 
-* Learn to use Grand Central Dispatch to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS. 
-
-### Condition Codes
-```
-switch conditionID {
-        case 200...232:
-            return "cloud.bolt"
-        case 300...321:
-            return "cloud.drizzle"
-        case 500...531:
-            return "cloud.rain"
-        case 600...622:
-            return "cloud.snow"
-        case 701...781:
-            return "cloud.fog"
-        case 800:
-            return "sun.max"
-        case 801...804:
-            return "cloud.bolt"
-        default:
-            return "cloud"
-        }
-```
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+### Technologies
+- UIKit
+- CoreLocation
+- Delegate Design Pattern
