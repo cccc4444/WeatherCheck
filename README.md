@@ -15,9 +15,10 @@ This app was build while taking the App Brewery's Complete App Development Bootc
 
   <table align = "center">
   <tr>
-       <td><img src="https://user-images.githubusercontent.com/30757557/183131660-e1097f84-2f9c-4a6b-875c-dc880c23e8be.mp4" width="200"></td>
+       <td><img src="https://user-images.githubusercontent.com/30757557/183657496-73046f88-e227-433d-b871-67f9fe0985f2.gif" width="200"></td>
   </tr>
  </table>
+
 
 ### Features
 - OpenWeather API has been used
